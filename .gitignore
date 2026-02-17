@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# React build
+todo-frontend/build/
+
+# Java / Spring Boot
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
